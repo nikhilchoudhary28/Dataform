@@ -1,0 +1,10 @@
+config {
+    type: "view",
+    schema: "FIRST"
+
+}
+
+SELECT
+  *
+FROM
+  ${ref("Second_file")}

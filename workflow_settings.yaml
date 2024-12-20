@@ -1,0 +1,5 @@
+defaultProject: inspired-muse-437010-h6
+defaultLocation: asia-south1
+defaultDataset: dataform
+defaultAssertionDataset: dataform_assertions
+dataformCoreVersion: 3.0.0

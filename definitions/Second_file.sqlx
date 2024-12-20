@@ -1,0 +1,8 @@
+config {
+    type: "view",
+    schema: "FIRST"
+}
+
+SELECT
+  "test" AS name_2,
+  "test_2" AS name_3
